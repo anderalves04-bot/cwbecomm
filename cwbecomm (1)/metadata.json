@@ -1,0 +1,6 @@
+{
+  "name": "cwbecomm",
+  "description": "E-commerce profissional cwbecomm com catálogo integrado, pagamentos em Pix, Cartão e Boleto, login de cliente e painel administrativo local seguro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
